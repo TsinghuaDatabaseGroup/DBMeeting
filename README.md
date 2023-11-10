@@ -2,7 +2,7 @@
 Putting Database Meeting Reports Together
 
 
-- 1988 The Laguna Beach Participants
+- 1988 The Laguna Beach Participants (https://github.com/TsinghuaDatabaseGroup/DBMeeting/blob/main/1988.pdf)
 - 1990 The Palo Alto Report
 - 1995 Database research: achievements and opportunities into 21st century
 - 1996 Strategic Directions in Database Systems—Breaking Out of the Box
